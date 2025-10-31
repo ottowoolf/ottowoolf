@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Otto
-- 🧔 I’m interested in Software/Web development
-- 🌱 I’m currently a Software Developer working with Angular, Ionic and Cordova on the front-end of a mobile app.
-- 🚀 Interested in the following technologies: Javascript, Angular, Ionic, React, React Native, C#, ASP.NET, MVC, MYSQL, NoSQL and much more...
-- 🎮 Currently learning and developing games as a hobby, using Unity and C# and a little bit of Blender for Asset creation
+- 🧔 I’m interested in everything Design
+- 🌱 I’m currently a UX Engineer at an NGO building educational content for the health industry.
+- 🎮 Currently learning and developing games as a hobby, using Unreal and C++ and a little bit of Blender for Asset creation
 - 🏢 I’m looking to collaborate on Projects and explore new and exciting technologies.
 - 📫 How to reach me: 
 
