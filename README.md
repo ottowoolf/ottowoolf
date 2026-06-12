@@ -6,5 +6,5 @@
 
 LinkedIn = https://www.linkedin.com/in/otman-ouali/
 
-Portfolio = otmandesigns.com
+Portfolio = https://www.otmandesigns.com
 
