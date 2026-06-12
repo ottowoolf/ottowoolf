@@ -5,5 +5,6 @@
 - 📫 How to reach me: 
 
 LinkedIn = https://www.linkedin.com/in/otman-ouali/
+
 Portfolio = otmandesigns.com
 
